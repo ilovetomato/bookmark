@@ -6,4 +6,3 @@ Markdown
 3. The list goes on
 
 
-http://gitready.com/beginner/2009/01/21/pushing-and-pulling.html
